@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OnealTorres
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Javascript, Java, Python and Java.
+- 🌱 I’m currently learning Javascript, Java, and Python.
 - 📫 You can reach me @ torresonealryan@gmail.com
 
 <!---
