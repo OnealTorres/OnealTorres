@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OnealTorres
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Javascript, Java, and Python.
+- 🌱 Currently learning Godot, React JS, React Native, MongoDB and Express JS
 - 📫 You can reach me @ torresonealryan@gmail.com
 
 <!---
